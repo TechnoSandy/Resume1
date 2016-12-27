@@ -1,7 +1,8 @@
 # Resume1
 My Resume HTML basic
 
-![capture](https://cloud.githubusercontent.com/assets/22931190/20647019/76d2372a-b4ae-11e6-9a99-3298083e997c.PNG)
+![capture](https://cloud.githubusercontent.com/assets/22931190/21500752/19bca422-cc68-11e6-8854-fb89a01ff5c4.PNG)
+
 
 # Git Page
 https://technosandy.github.io/Resume1/
